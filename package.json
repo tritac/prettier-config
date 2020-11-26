@@ -1,0 +1,9 @@
+{
+  "name": "@tritac/prettier-config",
+  "version": "1.0.0",
+  "description": "Tritac Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:tritac/prettier-config.git",
+  "author": "Koen Hendriks <koen@tritac.com>",
+  "license": "MIT"
+}
